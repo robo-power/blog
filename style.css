@@ -1,3 +1,8 @@
 h1{
-    color: palevioletred;
+    color: white;
+}
+header{
+    height: 30px;
+    width: auto;
+    background-color: darkorange;
 }
