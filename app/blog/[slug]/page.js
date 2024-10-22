@@ -6,6 +6,16 @@ import remarkParse from 'remark-parse';
 import remarkHtml from 'remark-html';
 import './content.css';
 
+
+export async function generateStaticParams() {
+	const postsDirectory = path.join(process.cwd(), 'content');
+	const fileNames = fs.readdirSync(postsDirectory);
+
+	fileNames.map(async (fileName) => {
+		return { slug: fileName.replace('.md', '') };
+	})
+}
+
 export default async function BlogPost({ params }) {
 	const { slug } = params;
 	const filepath = path.join(process.cwd(), 'content', `${slug}.md`);
