@@ -1,0 +1,8 @@
+ul,
+ol {
+    @apply list-none mt-6 ml-8;
+}
+
+a {
+    @apply text-black;
+}
