@@ -12,7 +12,7 @@ export async function generateStaticParams() {
 	const fileNames = fs.readdirSync(postsDirectory);
 
 	return fileNames.map((fileName) => ({
-		slug: fileName,
+		slug: fileName.replace('.md', ''),
 	}))
 }
 
