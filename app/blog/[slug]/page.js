@@ -11,9 +11,9 @@ export async function generateStaticParams() {
 	const postsDirectory = path.join(process.cwd(), 'content');
 	const fileNames = fs.readdirSync(postsDirectory);
 
-	fileNames.map(async (fileName) => {
-		return { slug: fileName.replace('.md', '') };
-	})
+	return fileNames.map((fileName) => ({
+		slug: fileName,
+	}))
 }
 
 export default async function BlogPost({ params }) {
