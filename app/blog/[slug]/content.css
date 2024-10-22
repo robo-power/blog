@@ -10,15 +10,6 @@ h4 {
   @apply mt-6 text-lg font-bold tracking-tight text-gray-900;
 }
 
-ul,
-ol {
-  @apply mt-6 list-disc ml-8;
-}
-
-li {
-  @apply mt-2;
-}
-
 a {
   @apply text-indigo-600;
 }

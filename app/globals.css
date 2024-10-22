@@ -31,9 +31,13 @@ h1 {
 
 ul,
 ol {
-  @apply mt-6 ml-8;
+  @apply mt-6 ml-8 list-none;
 }
 
 li {
   @apply mt-2;
+}
+
+a {
+  @apply text-black;
 }
