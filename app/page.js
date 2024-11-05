@@ -22,14 +22,17 @@ export default async function Blogs() {
 	);
 
 	return (
-		<div className="grow">
-			<ul>
-				{posts.map((post) => (
-					<li key={post.slug}>
-						<a href={`/blog/${post.slug}`}>{post.frontmatter.title}</a>
-					</li>
-				))}
-			</ul>
+		<div className="grow px-6 py-0 lg:px-8">
+			<div className="mx-auto max-w-3xl text-base leading-7">
+				<p>現在制作中</p>
+				<ul>
+					{posts.map((post) => (
+						<li key={post.slug}>
+							<a href={`/blog/${post.slug}`}>{post.frontmatter.title}</a>
+						</li>
+					))}
+				</ul>
+			</div>
 		</div>
 	);
 }

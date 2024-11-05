@@ -1,6 +1,6 @@
 ---
-title: Good Bye World
-date: "2023-06-25"
+title: Test Page 2
+date: "2024-11-05"
 description: "This is my second blog post!"
 ---
 

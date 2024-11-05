@@ -14,12 +14,12 @@ export default function RootLayout({ children }) {
     <html lang="ja">
       <body className={inter.className}>
 	  <div className='flex min-h-screen flex-col justify-between'>
-	  	<header className='bg-teal-300 text-center py-8'>
-	  		<h1> ロボのブログ</h1>
+	  	<header className='text-center py-8'>
+	  		<a href="/"><h1> ロボのブログ</h1></a>
 	  	</header>
 	  	{children}
-	  	<footer className='bg-teal-300 text-center py-1'>
-	  		<p>©2024 robo_power All rights reserved</p>
+	  	<footer className='text-center py-1'>
+	  		<a href="https://x.com/robo_power"><p>@robo_power</p></a>
 	  	</footer>
 	  </div>
       </body>
