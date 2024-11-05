@@ -1,7 +1,6 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import Link from 'next/link';
 
 export default async function Blogs() {
 	const postsDirectory = path.join(process.cwd(), 'content');
@@ -27,7 +26,7 @@ export default async function Blogs() {
 			<ul>
 				{posts.map((post) => (
 					<li key={post.slug}>
-						<Link href={`/blog/${post.slug}`}>{post.frontmatter.title}</Link>
+						<a href={`/blog/${post.slug}`}>{post.frontmatter.title}</a>
 					</li>
 				))}
 			</ul>

@@ -17,7 +17,7 @@ export async function generateStaticParams() {
 }
 
 export default async function BlogPost({ params }) {
-	const { slug } = params;
+	const { slug } = await params;
 	const filepath = path.join(process.cwd(), 'content', `${slug}.md`);
 	const fileContents = fs.readFileSync(filepath);
 	const { data, content } = matter(fileContents);
