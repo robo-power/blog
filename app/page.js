@@ -24,7 +24,7 @@ export default async function Blogs() {
 	return (
 		<div className="grow px-6 py-0 lg:px-8">
 			<div className="mx-auto max-w-3xl text-base leading-7">
-				<p>現在制作中</p>
+				<p>現在制作中ですが少しずつ記事を書いていきます。</p>
 				<ul>
 					{posts.map((post) => (
 						<li key={post.slug}>
