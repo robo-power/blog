@@ -3,7 +3,9 @@ import path from 'path';
 import matter from 'gray-matter';
 import { unified } from 'unified';
 import remarkParse from 'remark-parse';
-import remarkHtml from 'remark-html';
+import remarkRehype from 'remark-rehype';
+import rehypeRaw from 'rehype-raw';
+import rehypeStringify from 'rehype-stringify';
 import './content.css';
 
 
@@ -22,7 +24,7 @@ export default async function BlogPost({ params }) {
 	const fileContents = fs.readFileSync(filepath);
 	const { data, content } = matter(fileContents);
 	const title = data.title;
-	const processedContent = await unified().use(remarkParse).use(remarkHtml).process(content);
+	const processedContent = await unified().use(remarkParse).use(remarkRehype, { allowDangerousHtml: true }).use(rehypeRaw).use(rehypeStringify).process(content);
 	const contentHtml = processedContent.toString();
 
 	return (
