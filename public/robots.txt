@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://blog.r-portal.net
+
+# Sitemaps
+Sitemap: https://blog.r-portal.net/sitemap.xml

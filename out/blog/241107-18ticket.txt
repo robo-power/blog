@@ -1,0 +1,68 @@
+3:"$Sreact.fragment"
+4:I[9275,[],""]
+5:I[1343,[],""]
+8:I[3120,[],"OutletBoundary"]
+a:I[3120,[],"MetadataBoundary"]
+c:I[3120,[],"ViewportBoundary"]
+e:I[6130,[],""]
+1:HL["/_next/static/css/202a594001c1ac7d.css","style"]
+2:HL["/_next/static/css/cdcafbdaa868edb8.css","style"]
+6:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z0:{"P":null,"b":"cdWYDWw8e_kXkJzYBsOaA","p":"","c":["","blog","241107-18ticket"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","241107-18ticket","d"],{"children":["__PAGE__?{\"slug\":\"241107-18ticket\"}",{}]}]}]},"$undefined","$undefined",true],["",["$","$3","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/202a594001c1ac7d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":["$","body",null,{"className":"__className_d65c78","children":["$","div",null,{"className":"flex min-h-screen flex-col justify-between","children":[["$","header",null,{"className":"text-center py-8","children":["$","a",null,{"href":"/","children":["$","h1",null,{"children":" ロボのブログ"}]}]}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}],["$","footer",null,{"className":"py-1","children":["$","div",null,{"className":"px-10 mx-auto max-w-screen-md","children":[["$","div",null,{"className":"flex justify-center items-center gap-8","children":[["$","div",null,{"className":"flex flex-row items-center gap-1","children":[["$","svg",null,{"aria-hidden":"true","focusable":"false","data-prefix":"fab","data-icon":"x-twitter","className":"svg-inline--fa fa-x-twitter h-[20px]","role":"img","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 512 512","style":{},"ref":"$undefined","children":["$","path",null,{"fill":"currentColor","d":"M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z","style":{}}]}],["$","a",null,{"href":"https://x.com/robo_power","children":"@robo_power"}]]}],["$","div",null,{"className":"flex flex-row items-center gap-1","children":[["$","svg",null,{"aria-hidden":"true","focusable":"false","data-prefix":"fab","data-icon":"github","className":"svg-inline--fa fa-github h-[20px]","role":"img","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 496 512","style":{},"ref":"$undefined","children":["$","path",null,{"fill":"currentColor","d":"$6","style":{}}]}],["$","a",null,{"href":"https://github.com/robo-power","children":"@robo-power"}]]}],["$","a",null,{"href":"https://github.com/robo-power/blog","children":"ブログのソース: robo-power/blog"}]]}],["$","p",null,{"className":"text-center","children":"©2024 robo_power"}]]}]}]]}]}]}]]}],{"children":["blog",["$","$3","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":[["slug","241107-18ticket","d"],["$","$3","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$3","c",{"children":["$L7",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cdcafbdaa868edb8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L8",null,{"children":"$L9"}]]}],{},null]},null]},null]},null],["$","$3","h",{"children":[null,["$","$3","Q6QsV_O4Q3jC1ka-7Jo9Y",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}]]],"m":"$undefined","G":"$e","s":false,"S":true}
+f:T225b,<h2>はじめに</h2>
+<p>2024年10月24日、JRグループが青春18きっぷのリニューアルを<a href="https://www.jreast.co.jp/press/2024/20241024_ho01.pdf">発表</a>しました。変更内容はみなさんご存じのとおりですが、一番大きいのは3日連続または5日連続で使わなければならなくなった点でしょう。</p>
+<p>ここで思い出すのが10月14日の鉄道の日に合わせて発売された秋の乗り放題パスです。今回の青春18きっぷと同じく連続した3日間、JRグループの普通・快速列車の普通車自由席及びＢＲＴ並びにＪＲ西日本宮島フェリーが乗り放題となる切符です。</p>
+<p>私は10月12、13、14日にこの切符を利用して京都旅行をしてきたため、こちらが新18きっぷでの旅の参考になればうれしいです。</p>
+<h2>旅の概要(往路・前半)</h2>
+<ol>
+<li>
+<p>06:13-06:21　秋葉原駅→新橋駅(京浜東北線)</p>
+</li>
+<li>
+<p>06:34-08:19　新橋駅→熱海駅(東海道本線)</p>
+</li>
+<li>
+<p>08:23-08:41　熱海駅→沼津駅(東海道本線)</p>
+</li>
+<li>
+<p>08:44-10:42　沼津駅→磐田駅(東海道本線)</p>
+</li>
+</ol>
+<h2>往路・前半</h2>
+<p>まず、旅は6:00ごろの秋葉原駅から始まります。ここで切符を購入し、京浜東北線で新橋駅へと向かいます。券売機の込み具合によっては別に山手線でも変わりません。</p>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">これで京都まで行く(10時間) <a href="https://t.co/NKFHj5e9Z2">pic.twitter.com/NKFHj5e9Z2</a></p>— ロボ (@robo_power) <a href="https://twitter.com/robo_power/status/1844847969994207458?ref_src=twsrc%5Etfw">October 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<p>次に東海道本線で熱海に向かいます。東京なのに意外と乗り換えの待ち時間が長かったですね。圧倒的赤字路線の地元と比べればましですが。三連休の初日ということもあって朝から意外と人が多かったですが一応座ることはできました。18きっぷのシーズンだと座れないかもしれませんね。線路から異音がしたとのことでいきなり遅延したため、乗り換えが忙しかったです。新橋→熱海よりも熱海→沼津の方が混雑していました。時間の問題ですかね。沼津駅での乗り換えも全然余裕がなかったのでマネする人は急いで反対側のホームへ向かいましょう。</p>
+<p>ここからは京都へ向けて長い電車旅です。ここで座席が確保できないと積みですがそこまで混雑はしていませんでした。これが18きっぷの季節だと埋まるんですかね。関東の鉄道はほとんど乗らないのでよくわかりません。</p>
+<p>本来名古屋でおりて味噌カツでも食べようと思っていたのですが、静岡を走っているときにふとさわやかに行きたいと思いました。前日に某とんかつの方の<a href="https://youtu.be/vELegod0Lg8?si=gv4YJPmg7JzqYTdl">動画</a>を見ていたんですよね。思い立ったらすぐに予定を変更できるのがフリー切符のいいところです。早速さわやかの<a href="https://www.genkotsu-hb.com/shop/">ホームページ</a>で待ち時間を確認したところ、磐田駅の近くにある店舗がすぐに入れそうだったので、そこで降りることにしました。(近くといっても2kmあるんですがね)</p>
+<h2>昼食</h2>
+<p>さすがに駅から2km歩くのは嫌だったので、バスで近くまで向かいました。乗ったときに知ったんですがSUICAは使えないんですね。長らく駅で交通系ICが使えなかった地元でもバスでは使えていたので驚きました。腐っても県庁所在地でした。どうやら独自のICカードがあるらしいです。</p>
+<p>そんなこんなでどう考えても地元民しか使ってなさそうなバスでさわやかに向かいました。到着して受付をしたところ、ほとんど開店時間ちょうどだったのにも関わらず10分待ちでした。さすがさわやか。すぐに順番が回ってきて、げんこつハンバーグを注文しました。焼き加減はおすすめ、ソースはミックスです。目の前でハンバーグが焼き上げられていくのはなかなか楽しかったです。これが人生初さわやかだったのですが、不思議な感覚ですね。ハンバーグなのに中身がほぼ生でナイフを入れるとグニグニしていました。食レポは苦手なので味の詳細は書きませんがとても美味しかったです。次はハンバーガーも食べに行きたいですね。</p>
+<h2>旅の概要(往路・後半)</h2>
+<ol>
+<li>
+<p>12:33-12:44　磐田駅→浜松駅(東海道本線)</p>
+</li>
+<li>
+<p>12:46-13:18　浜松駅→豊橋駅(東海道本線)</p>
+</li>
+<li>
+<p>13:32-15:40　豊橋駅→米原駅(東海道本線)</p>
+</li>
+<li>
+<p>15:47-16:42　米原駅→京都駅(琵琶湖線)</p>
+</li>
+</ol>
+<h2>往路・後半</h2>
+<p>腹ごしらえもしたところでいよいよ往路の後半戦です。駅には12:00に戻ってきたのですが次の電車は12:33でした。地元を思い出しますね。</p>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">意外と東海道線の接続悪いな(京都まで在来線で行くバカは居ないからだろうけど)</p>— ロボ (@robo_power) <a href="https://twitter.com/robo_power/status/1844939544044634579?ref_src=twsrc%5Etfw">October 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<p>一時間ぶりに電車に乗り込み、浜松駅へと向かいます。このあたりって意外と電車の走行距離が短いんですね。同じ路線でも何度か乗り換えが必要です。そんなこんなで30程電車に揺られ、豊橋駅にたどり着きました。ここでも乗り換えが微妙に長かったです。</p>
+<p>さて、ここからは2時間以上乗り続けることになります。ちょうどこの日はpovoの3日間データ使い放題トッピングがあったので迷わず契約し、YoutubeやらPrime Videoやらを見てました。やはり持つべきものはiPadですね。新幹線だとパソカタして過ごすんですが在来線だとテーブルもないので少し厳しいです。まあこの後急にManjaro Linuxのインストールを始めるんですけどね。</p>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">電車Manjaroインストール <a href="https://t.co/pDTZwPyRwy">pic.twitter.com/pDTZwPyRwy</a></p>— ロボ (@robo_power) <a href="https://twitter.com/robo_power/status/1844990948364910781?ref_src=twsrc%5Etfw">October 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>なぜかインストールに失敗してやり直していたら米原駅に到着しました。ここからは長らく乗ってきた東海道本線から琵琶湖線へと乗り換えです。夕方ですし都市も近いので割と混雑していました。といっても座ることはできたのでよかったです。さすがに1時間立つのは無理ではないですがやりたくないです。</p>
+<p>こうして無事、約10時間の旅を終えて京都駅に到着しました。</p>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">到着！ <a href="https://t.co/5ufupi6OIa">pic.twitter.com/5ufupi6OIa</a></p>— ロボ (@robo_power) <a href="https://twitter.com/robo_power/status/1845008619265458332?ref_src=twsrc%5Etfw">October 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<p>通行人の顔が映らないようにトリミングするネットリテラシーの高さを見せつけつつ、往路はここで終了です。</p>
+<p>この後は京都大学の友人とご飯に行きました。地元からも友人が来ていたのですが私が在来線で来たと聞いてドン引きしていました。まあ別に夜行バスか新幹線で行ってもよかったんですが、さわやかに行けたのは間違いなく在来線旅ならではです。皆さんも在来線の旅、やってみませんか？</p>
+<p>京都観光と復路はそれぞれ別記事で書こうかと思います。また、ブログ自体の開発も進めていくのでたまにアクセスしてもらえると嬉しいです。それでは。</p>7:["$","div",null,{"className":"grow px-6 py-0 lg:px-8","children":["$","div",null,{"className":"mx-auto max-w-3xl text-base leading-7 text-gray-700","children":[["$","h1",null,{"className":"mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl","children":"改変後の青春18きっぷを楽しむには"}],["$","div",null,{"className":"mt-6","dangerouslySetInnerHTML":{"__html":"$f"}}]]}]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"ロボのブログ(r-portal)"}],["$","meta","2",{"name":"description","content":"その辺の大学生が日々学んだことやその他日常を投稿するブログです。"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null
