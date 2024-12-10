@@ -18,7 +18,3 @@ ol {
 li {
   @apply mt-2;
 }
-
-a {
-  @apply text-indigo-600;
-}

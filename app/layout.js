@@ -16,8 +16,8 @@ export default function RootLayout({ children }) {
     <html lang="ja">
       <body className={inter.className}>
 	  <div className='flex min-h-screen flex-col justify-between'>
-	  	<header className='text-center py-8'>
-	  		<a href="/"><h1> ロボのブログ</h1></a>
+	  	<header className='text-left py-4 px-4 shadow-orange-500 shadow'>
+	  		<a href="/"><h1 className="my-0"> ロボのブログ</h1></a>
 	  	</header>
 	  	{children}
 	  	<footer className='py-1'>
