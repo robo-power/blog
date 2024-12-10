@@ -25,13 +25,13 @@ export default async function Blogs() {
 		<div className="grow px-6 py-0 lg:px-8">
 			<div className="mx-auto max-w-4xl text-base leading-7">
 				<p>現在制作中ですが少しずつ記事を書いていきます。</p>
-				<ul className="grid grid-cols-2">
+				<div className="grid xl:grid-cols-2 grid-cols-1 xl:place-content-center place-items-center">
 					{posts.map((post) => (
-						<li key={post.slug} className='w-96 bg-white text-center shadow-md shadow-orange-300 text-xl flex items-center justify-center py-4 hover:bg-orange-300 group transition duration-300'>
+						<div key={post.slug} className='my-4 content-center w-80 xl:w-96 bg-white text-center shadow-md shadow-orange-300 text-xl flex items-center justify-center py-4 hover:bg-orange-300 group transition duration-300'>
 							<a href={`/blog/${post.slug}`} className='group-hover:text-white transition duration-300'>{post.frontmatter.title}</a>
-						</li>
+						</div>
 					))}
-				</ul>
+				</div>
 			</div>
 		</div>
 	);
