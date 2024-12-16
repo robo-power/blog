@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { Metadata } from 'next';
 import { unified } from 'unified';
 import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
@@ -19,6 +20,18 @@ export async function generateStaticParams() {
 		slug: fileName.replace('.md', ''),
 	}))
 }
+
+export async function generateMetadata({ params }) {
+	const { slug } = await params;
+	const filepath = path.join(process.cwd(), 'content', `${slug}.md`);
+	const fileContents = fs.readFileSync(filepath);
+	const { data, content } = matter(fileContents);
+   
+	return {
+	  title: data.title+" | r-portal",
+	  description: data.description
+	}
+  }
 
 export default async function BlogPost({ params }) {
 	const { slug } = await params;
